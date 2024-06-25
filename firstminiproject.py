@@ -15,4 +15,3 @@ while (ans!=random_number):
         print("Your guess is too low")
     else:
         print("Your guess is too high")
-# end of the video
